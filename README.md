@@ -1,10 +1,11 @@
-# Project Title
+# JavaScript Drum Kit
 
 Your keyboard is now a drumset.
 
 ## Getting Started
 
 Click the below link:
+https://joscelyn1.github.io/JavaScript-Drum-Kit/
 
 
 ## Built With
